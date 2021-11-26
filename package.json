@@ -1,0 +1,25 @@
+{
+  "name": "parallax-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/**/*.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuyz0112/parallax-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuyz0112/parallax-demo/issues"
+  },
+  "homepage": "https://github.com/Yuyz0112/parallax-demo#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-transform-react-jsx": "^7.16.0"
+  }
+}
