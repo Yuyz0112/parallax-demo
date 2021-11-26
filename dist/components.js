@@ -1,4 +1,4 @@
-import React from "react";
+import React from "https://esm.run/es-react";
 import { createComponent } from "https://esm.run/@sunmao-ui/core";
 
 const DummyImpl = () => {
